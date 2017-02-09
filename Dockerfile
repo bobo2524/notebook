@@ -6,5 +6,3 @@ COPY . /tomcat/webapps
 
 EXPOSE 80
 
-CMD tomcat/bin/startup.sh
-
